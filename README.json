@@ -18,7 +18,7 @@
     {
       "description": "Live GitHub market signals for high-impact open-source coding-agent and vibe-coding ecosystems with direct tutorial coverage.\nData source: GitHub REST API (, ) via .",
       "items": [],
-      "title": "📈 Trending Vibe-Coding Repos (Auto-updated 2026-08-10)"
+      "title": "📈 Trending Vibe-Coding Repos (Auto-updated 2026-08-17)"
     },
     {
       "description": "",
@@ -182,9 +182,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T21:17:47.074Z",
+    "last_updated": "2026-08-17T21:23:40.781Z",
     "original_repository": "johnxie/awesome-code-docs",
-    "original_repository_sha": "6ee3bff7e7747c3287fc3258bc7631703cd4b1f6",
+    "original_repository_sha": "5c4db0e6f6293907306ab9d4f098fc55445102f8",
     "enhanced_repository": "enhansome/enhansome-code-docs",
     "enhanced_repository_description": null,
     "title": "Awesome Code Docs with stars"
