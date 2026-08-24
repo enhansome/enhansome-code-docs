@@ -93,10 +93,10 @@
             "archived": false,
             "id": 975734319,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:45:23Z",
+            "last_commit": "2026-08-24T21:23:46Z",
             "owner": "anomalyco",
             "repo": "opencode",
-            "stars": 200903
+            "stars": 201006
           }
         },
         {
@@ -108,10 +108,10 @@
             "archived": false,
             "id": 701547123,
             "language": "Python",
-            "last_commit": "2026-08-24T11:36:44Z",
+            "last_commit": "2026-08-24T21:25:35Z",
             "owner": "open-webui",
             "repo": "open-webui",
-            "stars": 149764
+            "stars": 149796
           }
         },
         {
@@ -123,10 +123,10 @@
             "archived": false,
             "id": 881458615,
             "language": "Python",
-            "last_commit": "2026-08-22T23:25:03Z",
+            "last_commit": "2026-08-24T18:24:20Z",
             "owner": "browser-use",
             "repo": "browser-use",
-            "stars": 110331
+            "stars": 110355
           }
         },
         {
@@ -153,10 +153,10 @@
             "archived": false,
             "id": 824874689,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T22:59:35Z",
+            "last_commit": "2026-08-24T21:23:45Z",
             "owner": "cline",
             "repo": "cline",
-            "stars": 66764
+            "stars": 66782
           }
         },
         {
@@ -168,10 +168,10 @@
             "archived": false,
             "id": 1032459340,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:30:45Z",
+            "last_commit": "2026-08-24T19:38:45Z",
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 66077
+            "stars": 66109
           }
         },
         {
@@ -183,10 +183,10 @@
             "archived": false,
             "id": 649170660,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T03:50:06Z",
+            "last_commit": "2026-08-24T19:31:30Z",
             "owner": "Mintplex-Labs",
             "repo": "anything-llm",
-            "stars": 65143
+            "stars": 65151
           }
         },
         {
@@ -198,10 +198,10 @@
             "archived": false,
             "id": 644686905,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:22:36Z",
+            "last_commit": "2026-08-24T16:42:22Z",
             "owner": "continuedev",
             "repo": "continue",
-            "stars": 35609
+            "stars": 35611
           }
         },
         {
@@ -228,10 +228,10 @@
             "archived": false,
             "id": 644461337,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:37:46Z",
+            "last_commit": "2026-08-24T21:22:50Z",
             "owner": "vercel",
             "repo": "ai",
-            "stars": 26392
+            "stars": 26393
           }
         },
         {
@@ -258,10 +258,10 @@
             "archived": false,
             "id": 964395174,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T21:00:55Z",
+            "last_commit": "2026-08-24T20:40:12Z",
             "owner": "dyad-sh",
             "repo": "dyad",
-            "stars": 21313
+            "stars": 21315
           }
         },
         {
@@ -276,7 +276,7 @@
             "last_commit": "2026-02-07T14:36:22Z",
             "owner": "stackblitz-labs",
             "repo": "bolt.diy",
-            "stars": 19804
+            "stars": 19803
           }
         },
         {
@@ -321,7 +321,7 @@
             "last_commit": "2026-08-20T12:45:41Z",
             "owner": "cloudflare",
             "repo": "vibesdk",
-            "stars": 5328
+            "stars": 5329
           }
         }
       ],
@@ -365,7 +365,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:46:01.740Z",
+    "last_updated": "2026-08-24T21:26:38.792Z",
     "original_repository": "johnxie/awesome-code-docs",
     "original_repository_id": 1050751344,
     "original_repository_sha": "7007a32b30d711725be610d04765e988b60f1801",
