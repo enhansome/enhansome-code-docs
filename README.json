@@ -16,7 +16,8 @@
             "owner": "taskade",
             "repo": "mcp",
             "stars": 163
-          }
+          },
+          "first_seen": "2026-08-28T05:06:36.437Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "taskade",
             "repo": "docs",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T05:06:36.437Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-08-27T09:58:46Z",
             "owner": "taskade",
             "repo": "awesome-vibe-coding",
-            "stars": 108
-          }
+            "stars": 143
+          },
+          "first_seen": "2026-08-28T05:06:36.437Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "taskade",
             "repo": "taskade",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T05:06:36.437Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "taskade",
             "repo": "temporal-parser",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T05:06:36.437Z"
         }
       ],
       "title": "🧬 Taskade Ecosystem Snapshot (Verified 2026-06-01)"
@@ -93,11 +98,12 @@
             "archived": false,
             "id": 975734319,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:17:13Z",
+            "last_commit": "2026-08-28T05:04:52Z",
             "owner": "anomalyco",
             "repo": "opencode",
-            "stars": 201855
-          }
+            "stars": 202000
+          },
+          "first_seen": "2026-08-28T05:06:36.437Z"
         },
         {
           "node_type": "item",
@@ -108,11 +114,12 @@
             "archived": false,
             "id": 701547123,
             "language": "Python",
-            "last_commit": "2026-08-26T01:45:36Z",
+            "last_commit": "2026-08-27T23:24:19Z",
             "owner": "open-webui",
             "repo": "open-webui",
-            "stars": 150082
-          }
+            "stars": 150174
+          },
+          "first_seen": "2026-08-28T05:06:36.437Z"
         },
         {
           "node_type": "item",
@@ -123,11 +130,12 @@
             "archived": false,
             "id": 881458615,
             "language": "Python",
-            "last_commit": "2026-08-26T18:41:37Z",
+            "last_commit": "2026-08-28T03:42:29Z",
             "owner": "browser-use",
             "repo": "browser-use",
-            "stars": 111369
-          }
+            "stars": 111491
+          },
+          "first_seen": "2026-08-28T05:06:36.437Z"
         },
         {
           "node_type": "item",
@@ -141,8 +149,9 @@
             "last_commit": "2026-07-24T07:12:07Z",
             "owner": "daytonaio",
             "repo": "daytona",
-            "stars": 71865
-          }
+            "stars": 71861
+          },
+          "first_seen": "2026-08-28T05:06:36.437Z"
         },
         {
           "node_type": "item",
@@ -153,11 +162,12 @@
             "archived": false,
             "id": 824874689,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T07:09:55Z",
+            "last_commit": "2026-08-28T05:01:37Z",
             "owner": "cline",
             "repo": "cline",
-            "stars": 66962
-          }
+            "stars": 67029
+          },
+          "first_seen": "2026-08-28T05:06:36.437Z"
         },
         {
           "node_type": "item",
@@ -168,11 +178,12 @@
             "archived": false,
             "id": 1032459340,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T23:24:19Z",
+            "last_commit": "2026-08-27T20:59:19Z",
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 66402
-          }
+            "stars": 66479
+          },
+          "first_seen": "2026-08-28T05:06:36.437Z"
         },
         {
           "node_type": "item",
@@ -183,11 +194,12 @@
             "archived": false,
             "id": 649170660,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T02:04:41Z",
+            "last_commit": "2026-08-28T00:58:39Z",
             "owner": "Mintplex-Labs",
             "repo": "anything-llm",
-            "stars": 65277
-          }
+            "stars": 65312
+          },
+          "first_seen": "2026-08-28T05:06:36.437Z"
         },
         {
           "node_type": "item",
@@ -198,11 +210,12 @@
             "archived": false,
             "id": 644686905,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T10:07:03Z",
+            "last_commit": "2026-08-27T13:11:02Z",
             "owner": "continuedev",
             "repo": "continue",
-            "stars": 35644
-          }
+            "stars": 35652
+          },
+          "first_seen": "2026-08-28T05:06:36.437Z"
         },
         {
           "node_type": "item",
@@ -216,8 +229,9 @@
             "last_commit": "2026-06-30T20:38:02Z",
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33836
-          }
+            "stars": 33839
+          },
+          "first_seen": "2026-08-28T05:06:36.437Z"
         },
         {
           "node_type": "item",
@@ -228,11 +242,12 @@
             "archived": false,
             "id": 644461337,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T02:48:04Z",
+            "last_commit": "2026-08-28T03:42:56Z",
             "owner": "vercel",
             "repo": "ai",
-            "stars": 26436
-          }
+            "stars": 26454
+          },
+          "first_seen": "2026-08-28T05:06:36.437Z"
         },
         {
           "node_type": "item",
@@ -246,8 +261,9 @@
             "last_commit": "2026-05-15T18:08:47Z",
             "owner": "RooCodeInc",
             "repo": "Roo-Code",
-            "stars": 24324
-          }
+            "stars": 24323
+          },
+          "first_seen": "2026-08-28T05:06:36.437Z"
         },
         {
           "node_type": "item",
@@ -258,11 +274,12 @@
             "archived": false,
             "id": 964395174,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T10:35:10Z",
+            "last_commit": "2026-08-28T04:49:43Z",
             "owner": "dyad-sh",
             "repo": "dyad",
-            "stars": 21321
-          }
+            "stars": 21324
+          },
+          "first_seen": "2026-08-28T05:06:36.437Z"
         },
         {
           "node_type": "item",
@@ -276,8 +293,9 @@
             "last_commit": "2026-02-07T14:36:22Z",
             "owner": "stackblitz-labs",
             "repo": "bolt.diy",
-            "stars": 19818
-          }
+            "stars": 19817
+          },
+          "first_seen": "2026-08-28T05:06:36.437Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "sweepai",
             "repo": "sweep",
             "stars": 7706
-          }
+          },
+          "first_seen": "2026-08-28T05:06:36.437Z"
         },
         {
           "node_type": "item",
@@ -306,8 +325,9 @@
             "last_commit": "2026-08-17T19:00:31Z",
             "owner": "stagewise-io",
             "repo": "stagewise",
-            "stars": 6790
-          }
+            "stars": 6792
+          },
+          "first_seen": "2026-08-28T05:06:36.437Z"
         },
         {
           "node_type": "item",
@@ -321,8 +341,9 @@
             "last_commit": "2026-08-20T12:45:41Z",
             "owner": "cloudflare",
             "repo": "vibesdk",
-            "stars": 5333
-          }
+            "stars": 5335
+          },
+          "first_seen": "2026-08-28T05:06:36.437Z"
         }
       ],
       "title": "📈 Trending Vibe-Coding Repos (Auto-updated 2026-08-24)"
@@ -343,7 +364,8 @@
             "owner": "johnxie",
             "repo": "awesome-code-docs",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T05:06:36.437Z"
         },
         {
           "node_type": "item",
@@ -358,14 +380,15 @@
             "owner": "johnxie",
             "repo": "awesome-code-docs",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T05:06:36.437Z"
         }
       ],
       "title": "🌍 Community"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:33:33.669Z",
+    "last_updated": "2026-08-28T05:06:36.437Z",
     "original_repository_info": {
       "archived": false,
       "id": 1050751344,
