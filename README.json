@@ -47,7 +47,7 @@
             "last_commit": "2026-08-27T09:58:46Z",
             "owner": "taskade",
             "repo": "awesome-vibe-coding",
-            "stars": 143
+            "stars": 145
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
         },
@@ -98,10 +98,10 @@
             "archived": false,
             "id": 975734319,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T05:04:52Z",
+            "last_commit": "2026-08-29T03:04:46Z",
             "owner": "anomalyco",
             "repo": "opencode",
-            "stars": 202000
+            "stars": 202222
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
         },
@@ -114,10 +114,10 @@
             "archived": false,
             "id": 701547123,
             "language": "Python",
-            "last_commit": "2026-08-27T23:24:19Z",
+            "last_commit": "2026-08-29T00:31:09Z",
             "owner": "open-webui",
             "repo": "open-webui",
-            "stars": 150174
+            "stars": 150258
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
         },
@@ -130,10 +130,10 @@
             "archived": false,
             "id": 881458615,
             "language": "Python",
-            "last_commit": "2026-08-28T03:42:29Z",
+            "last_commit": "2026-08-29T02:08:30Z",
             "owner": "browser-use",
             "repo": "browser-use",
-            "stars": 111491
+            "stars": 111590
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
         },
@@ -149,7 +149,7 @@
             "last_commit": "2026-07-24T07:12:07Z",
             "owner": "daytonaio",
             "repo": "daytona",
-            "stars": 71861
+            "stars": 71864
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
         },
@@ -162,10 +162,10 @@
             "archived": false,
             "id": 824874689,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T05:01:37Z",
+            "last_commit": "2026-08-29T02:44:17Z",
             "owner": "cline",
             "repo": "cline",
-            "stars": 67029
+            "stars": 67090
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
         },
@@ -178,10 +178,10 @@
             "archived": false,
             "id": 1032459340,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T20:59:19Z",
+            "last_commit": "2026-08-28T20:08:11Z",
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 66479
+            "stars": 66579
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
         },
@@ -194,10 +194,10 @@
             "archived": false,
             "id": 649170660,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T00:58:39Z",
+            "last_commit": "2026-08-29T00:54:15Z",
             "owner": "Mintplex-Labs",
             "repo": "anything-llm",
-            "stars": 65312
+            "stars": 65347
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
         },
@@ -210,10 +210,10 @@
             "archived": false,
             "id": 644686905,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T13:11:02Z",
+            "last_commit": "2026-08-28T10:05:03Z",
             "owner": "continuedev",
             "repo": "continue",
-            "stars": 35652
+            "stars": 35667
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
         },
@@ -229,7 +229,7 @@
             "last_commit": "2026-06-30T20:38:02Z",
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33839
+            "stars": 33840
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
         },
@@ -242,10 +242,10 @@
             "archived": false,
             "id": 644461337,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T03:42:56Z",
+            "last_commit": "2026-08-29T01:42:01Z",
             "owner": "vercel",
             "repo": "ai",
-            "stars": 26454
+            "stars": 26475
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
         },
@@ -261,7 +261,7 @@
             "last_commit": "2026-05-15T18:08:47Z",
             "owner": "RooCodeInc",
             "repo": "Roo-Code",
-            "stars": 24323
+            "stars": 24322
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
         },
@@ -274,10 +274,10 @@
             "archived": false,
             "id": 964395174,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T04:49:43Z",
+            "last_commit": "2026-08-28T17:14:32Z",
             "owner": "dyad-sh",
             "repo": "dyad",
-            "stars": 21324
+            "stars": 21328
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
         },
@@ -293,7 +293,7 @@
             "last_commit": "2026-02-07T14:36:22Z",
             "owner": "stackblitz-labs",
             "repo": "bolt.diy",
-            "stars": 19817
+            "stars": 19821
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
         },
@@ -325,7 +325,7 @@
             "last_commit": "2026-08-17T19:00:31Z",
             "owner": "stagewise-io",
             "repo": "stagewise",
-            "stars": 6792
+            "stars": 6791
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
         },
@@ -341,7 +341,7 @@
             "last_commit": "2026-08-20T12:45:41Z",
             "owner": "cloudflare",
             "repo": "vibesdk",
-            "stars": 5335
+            "stars": 5336
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
         }
@@ -388,7 +388,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T05:06:36.437Z",
+    "last_updated": "2026-08-29T03:04:47.745Z",
     "original_repository_info": {
       "archived": false,
       "id": 1050751344,
