@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🤖 Taskade MCP · Official MCP server and OpenAPI to MCP codegen. Build AI agent tools from any OpenAPI API and connect to Claude, Cursor, and more.",
+            "homepage": "https://taskade.com/blog/mcp",
             "id": 990355747,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T18:56:13Z",
+            "open_issues": 11,
             "owner": "taskade",
             "repo": "mcp",
-            "stars": 163
+            "stars": 163,
+            "topics": [
+              "ai",
+              "ai-agent",
+              "ai-agents",
+              "autonomous-agents",
+              "integrations",
+              "mcp",
+              "mcp-server",
+              "mcp-tools",
+              "model-context-protocol",
+              "model-context-protocol-server",
+              "model-context-protocol-servers",
+              "no-code-automation",
+              "openapi",
+              "openapi-codegen",
+              "openapi3",
+              "productivity",
+              "taskade",
+              "workflow",
+              "workflow-automation",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
         },
@@ -26,12 +52,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official documentation for Taskade — build apps, deploy AI agents & automate workflows on the AI-native platform. REST & Action APIs, MCP server, Genesis. Source for docs.taskade.com — typos & gaps welcome via issues/PRs.",
+            "homepage": "https://docs.taskade.com",
             "id": 1014124751,
             "language": null,
+            "license": "CC-BY-4.0",
             "last_commit": "2026-07-28T10:59:58Z",
+            "open_issues": 0,
             "owner": "taskade",
             "repo": "docs",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "ai-agents",
+              "ai-app-builder",
+              "api",
+              "api-documentation",
+              "automation",
+              "developer-docs",
+              "documentation",
+              "genesis",
+              "gitbook",
+              "low-code",
+              "mcp",
+              "no-code",
+              "productivity",
+              "rest-api",
+              "taskade",
+              "workflow-automation"
+            ]
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
         },
@@ -42,12 +90,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 The complete guide to vibe coding — build software with AI through natural language prompts. Tools, frameworks, best practices, and resources curated by Taskade.",
+            "homepage": "https://www.taskade.com/genesis",
             "id": 1137265280,
             "language": null,
+            "license": "CC-BY-4.0",
             "last_commit": "2026-08-27T09:58:46Z",
+            "open_issues": 1,
             "owner": "taskade",
             "repo": "awesome-vibe-coding",
-            "stars": 145
+            "stars": 145,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-app-builder",
+              "ai-coding",
+              "ai-developer-tools",
+              "ai-tools",
+              "awesome",
+              "awesome-list",
+              "bolt-alternative",
+              "copilot",
+              "cursor-ai",
+              "living-software",
+              "lovable-alternative",
+              "low-code",
+              "no-code",
+              "prompt-engineering",
+              "prompt-to-app",
+              "taskade-genesis",
+              "vibe-coding",
+              "vibecoding"
+            ]
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
         },
@@ -58,12 +132,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The AI-native workspace platform. Projects remember. Agents think. Automations execute. One prompt to production — bug reports & feature requests welcome.",
+            "homepage": "https://taskade.com",
             "id": 1161296944,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-06-10T03:37:14Z",
+            "open_issues": 0,
             "owner": "taskade",
             "repo": "taskade",
-            "stars": 62
+            "stars": 62,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-app-builder",
+              "automation",
+              "chatbot",
+              "collaboration",
+              "generative-ai",
+              "llm",
+              "low-code",
+              "mcp",
+              "no-code",
+              "notion-alternative",
+              "productivity",
+              "project-management",
+              "real-time",
+              "task-management",
+              "taskade",
+              "vibe-coding",
+              "workflow",
+              "workflow-automation"
+            ]
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
         },
@@ -74,12 +174,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lexer and parser for ISO 8601, RFC 3339, and IXDTF temporal expressions, built with compiler design principles.",
+            "homepage": "https://www.npmjs.com/package/@taskade/temporal-parser",
             "id": 1131222739,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-02-12T17:47:10Z",
+            "open_issues": 2,
             "owner": "taskade",
             "repo": "temporal-parser",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "compiler",
+              "date",
+              "datetime",
+              "duration",
+              "iso8601",
+              "ixdtf",
+              "lexer",
+              "parser",
+              "rfc3339",
+              "temporal",
+              "timezone"
+            ]
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
         }
@@ -96,12 +213,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The open source coding agent.",
+            "homepage": "https://opencode.ai",
             "id": 975734319,
             "language": "TypeScript",
-            "last_commit": "2026-08-29T03:04:46Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:51:50Z",
+            "open_issues": 5592,
             "owner": "anomalyco",
             "repo": "opencode",
-            "stars": 202222
+            "stars": 202242,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
         },
@@ -112,12 +234,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+            "homepage": "https://openwebui.com",
             "id": 701547123,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-29T00:31:09Z",
+            "open_issues": 226,
             "owner": "open-webui",
             "repo": "open-webui",
-            "stars": 150258
+            "stars": 150266,
+            "topics": [
+              "ai",
+              "llm",
+              "llm-ui",
+              "llm-webui",
+              "llms",
+              "mcp",
+              "ollama",
+              "ollama-webui",
+              "open-webui",
+              "openai",
+              "openapi",
+              "rag",
+              "self-hosted",
+              "ui",
+              "webui"
+            ]
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
         },
@@ -128,12 +271,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+            "homepage": "https://browser-use.com",
             "id": 881458615,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-29T02:08:30Z",
+            "open_issues": 387,
             "owner": "browser-use",
             "repo": "browser-use",
-            "stars": 111590
+            "stars": 111598,
+            "topics": [
+              "ai-agents",
+              "ai-tools",
+              "browser-automation",
+              "browser-use",
+              "llm",
+              "playwright",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
         },
@@ -144,12 +300,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
+            "homepage": "https://daytona.io",
             "id": 753490180,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-24T07:12:07Z",
+            "open_issues": 448,
             "owner": "daytonaio",
             "repo": "daytona",
-            "stars": 71864
+            "stars": 71863,
+            "topics": [
+              "agentic-workflow",
+              "ai",
+              "ai-agents",
+              "ai-runtime",
+              "ai-sandboxes",
+              "code-execution",
+              "code-interpreter",
+              "developer-tools"
+            ]
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
         },
@@ -160,12 +330,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+            "homepage": "https://cline.bot",
             "id": 824874689,
             "language": "TypeScript",
-            "last_commit": "2026-08-29T02:44:17Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:24:12Z",
+            "open_issues": 1139,
             "owner": "cline",
             "repo": "cline",
-            "stars": 67090
+            "stars": 67096,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
         },
@@ -176,12 +351,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spec-driven development (SDD) for AI coding assistants.",
+            "homepage": "https://openspec.dev/",
             "id": 1032459340,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T20:08:11Z",
+            "open_issues": 200,
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 66579
+            "stars": 66585,
+            "topics": [
+              "ai",
+              "context-engineering",
+              "engineering",
+              "planning",
+              "prd",
+              "sdd",
+              "sdlc",
+              "spec",
+              "spec-driven-development",
+              "specification"
+            ]
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
         },
@@ -192,12 +383,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience ",
+            "homepage": "https://anythingllm.com",
             "id": 649170660,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-29T00:54:15Z",
+            "open_issues": 328,
             "owner": "Mintplex-Labs",
             "repo": "anything-llm",
-            "stars": 65347
+            "stars": 65348,
+            "topics": [
+              "agent-computer",
+              "agent-harness",
+              "agent-orchestration",
+              "agentic-ai",
+              "ai-agents",
+              "computer-use",
+              "hermes-agent",
+              "llm",
+              "local-ai",
+              "localai",
+              "multimodal",
+              "no-code",
+              "open-claw",
+              "rag",
+              "self-hosted-ai",
+              "vector-database"
+            ]
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
         },
@@ -208,12 +421,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "open-source coding agent",
+            "homepage": "https://continue.dev",
             "id": 644686905,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T10:05:03Z",
+            "open_issues": 945,
             "owner": "continuedev",
             "repo": "continue",
-            "stars": 35667
+            "stars": 35668,
+            "topics": [
+              "agent",
+              "ai",
+              "cli",
+              "developer-tools",
+              "open-source"
+            ]
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
         },
@@ -224,12 +448,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-hosted AI coding assistant",
+            "homepage": "https://tabbyml.com",
             "id": 614764248,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-30T20:38:02Z",
+            "open_issues": 333,
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33840
+            "stars": 33842,
+            "topics": [
+              "ai",
+              "codegen",
+              "coding-assistant",
+              "coding-language",
+              "developer-experience",
+              "developer-tools",
+              "gen-ai",
+              "ide",
+              "llms"
+            ]
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
         },
@@ -240,12 +479,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents ",
+            "homepage": "https://ai-sdk.dev",
             "id": 644461337,
             "language": "TypeScript",
-            "last_commit": "2026-08-29T01:42:01Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:36:52Z",
+            "open_issues": 1672,
             "owner": "vercel",
             "repo": "ai",
-            "stars": 26475
+            "stars": 26477,
+            "topics": [
+              "anthropic",
+              "artificial-intelligence",
+              "gemini",
+              "generative-ai",
+              "generative-ui",
+              "javascript",
+              "language-model",
+              "llm",
+              "nextjs",
+              "openai",
+              "react",
+              "svelte",
+              "typescript",
+              "vercel",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
         },
@@ -256,12 +516,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Roo Code gives you a whole dev team of AI agents in your code editor.",
+            "homepage": "https://roocode.com",
             "id": 881506708,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-15T18:08:47Z",
+            "open_issues": 1035,
             "owner": "RooCodeInc",
             "repo": "Roo-Code",
-            "stars": 24322
+            "stars": 24322,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
         },
@@ -272,12 +537,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!",
+            "homepage": "https://dyad.sh",
             "id": 964395174,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T17:14:32Z",
+            "open_issues": 263,
             "owner": "dyad-sh",
             "repo": "dyad",
-            "stars": 21328
+            "stars": 21328,
+            "topics": [
+              "ai-app-builder",
+              "anthropic",
+              "artificial-intelligence",
+              "bolt",
+              "deepseek",
+              "gemini",
+              "generative-ai",
+              "github",
+              "llm",
+              "llms",
+              "lovable",
+              "nextjs",
+              "ollama",
+              "openai",
+              "qwen",
+              "react",
+              "typescript",
+              "v0",
+              "vercel"
+            ]
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
         },
@@ -288,12 +578,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Prompt, run, edit, and deploy full-stack web applications using any LLM you want!",
+            "homepage": "https://stackblitz-labs.github.io/bolt.diy/",
             "id": 872087586,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-02-07T14:36:22Z",
+            "open_issues": 133,
             "owner": "stackblitz-labs",
             "repo": "bolt.diy",
-            "stars": 19821
+            "stars": 19821,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
         },
@@ -304,12 +599,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sweep: AI coding assistant for JetBrains",
+            "homepage": "https://sweep.dev",
             "id": 653574784,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2025-09-18T06:10:59Z",
+            "open_issues": 752,
             "owner": "sweepai",
             "repo": "sweep",
-            "stars": 7706
+            "stars": 7706,
+            "topics": [
+              "ai",
+              "ai-developer",
+              "ai-softwar",
+              "ai-software",
+              "code-assistant",
+              "code-search",
+              "developer-tools",
+              "github-app",
+              "gpt-4"
+            ]
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
         },
@@ -320,12 +630,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Open Source Agentic IDE. Create and orchestrate coding agents, show app previews and run git workflows. Use your favorite models across all providers.",
+            "homepage": "https://stagewise.io",
             "id": 973180254,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-17T19:00:31Z",
+            "open_issues": 17,
             "owner": "stagewise-io",
             "repo": "stagewise",
-            "stars": 6791
+            "stars": 6791,
+            "topics": [
+              "agent",
+              "agent-orchestration",
+              "ide"
+            ]
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
         },
@@ -336,12 +655,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack ",
+            "homepage": "https://build.cloudflare.dev",
             "id": 1044360605,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-20T12:45:41Z",
+            "open_issues": 13,
             "owner": "cloudflare",
             "repo": "vibesdk",
-            "stars": 5336
+            "stars": 5336,
+            "topics": [
+              "ai",
+              "cloudflare-workers",
+              "coding-agent",
+              "durable-objects",
+              "text-to-app",
+              "vibe-coding"
+            ]
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
         }
@@ -358,12 +689,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "203 deep-dive tutorials for AI agents, LLM frameworks, coding tools, MCP, and open-source developer platforms",
+            "homepage": "https://github.com/johnxie/awesome-code-docs#-tutorial-catalog",
             "id": 1050751344,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T10:04:44Z",
+            "open_issues": 0,
             "owner": "johnxie",
             "repo": "awesome-code-docs",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "ai-agents",
+              "ai-coding-assistant",
+              "ai-tutorial",
+              "awesome-list",
+              "awesome-lists",
+              "bolt-diy",
+              "cline",
+              "developer-tools",
+              "documentation",
+              "generative-ai",
+              "langchain",
+              "llm",
+              "machine-learning",
+              "mcp",
+              "open-source",
+              "openhands",
+              "rag",
+              "roo-code",
+              "tutorials",
+              "vibe-coding"
+            ]
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
         },
@@ -374,12 +731,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "203 deep-dive tutorials for AI agents, LLM frameworks, coding tools, MCP, and open-source developer platforms",
+            "homepage": "https://github.com/johnxie/awesome-code-docs#-tutorial-catalog",
             "id": 1050751344,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T10:04:44Z",
+            "open_issues": 0,
             "owner": "johnxie",
             "repo": "awesome-code-docs",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "ai-agents",
+              "ai-coding-assistant",
+              "ai-tutorial",
+              "awesome-list",
+              "awesome-lists",
+              "bolt-diy",
+              "cline",
+              "developer-tools",
+              "documentation",
+              "generative-ai",
+              "langchain",
+              "llm",
+              "machine-learning",
+              "mcp",
+              "open-source",
+              "openhands",
+              "rag",
+              "roo-code",
+              "tutorials",
+              "vibe-coding"
+            ]
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
         }
@@ -388,15 +771,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:04:47.745Z",
+    "last_updated": "2026-08-29T05:04:09.244Z",
     "original_repository_info": {
       "archived": false,
+      "description": "203 deep-dive tutorials for AI agents, LLM frameworks, coding tools, MCP, and open-source developer platforms",
+      "homepage": "https://github.com/johnxie/awesome-code-docs#-tutorial-catalog",
       "id": 1050751344,
       "language": "Python",
+      "license": "MIT",
       "last_commit": "2026-08-24T10:04:44Z",
+      "open_issues": 0,
       "owner": "johnxie",
       "repo": "awesome-code-docs",
-      "stars": 58
+      "stars": 58,
+      "topics": [
+        "ai-agents",
+        "ai-coding-assistant",
+        "ai-tutorial",
+        "awesome-list",
+        "awesome-lists",
+        "bolt-diy",
+        "cline",
+        "developer-tools",
+        "documentation",
+        "generative-ai",
+        "langchain",
+        "llm",
+        "machine-learning",
+        "mcp",
+        "open-source",
+        "openhands",
+        "rag",
+        "roo-code",
+        "tutorials",
+        "vibe-coding"
+      ]
     },
     "original_repository_sha": "7007a32b30d711725be610d04765e988b60f1801",
     "enhanced_repository": "enhansome/enhansome-code-docs",
