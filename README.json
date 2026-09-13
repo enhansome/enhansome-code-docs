@@ -183,7 +183,7 @@
             "open_issues": 4,
             "owner": "taskade",
             "repo": "temporal-parser",
-            "stars": 21,
+            "stars": 22,
             "topics": [
               "compiler",
               "date",
@@ -219,11 +219,11 @@
             "id": 975734319,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-12T22:49:13Z",
-            "open_issues": 5792,
+            "last_commit": "2026-09-13T22:39:27Z",
+            "open_issues": 5814,
             "owner": "anomalyco",
             "repo": "opencode",
-            "stars": 206950,
+            "stars": 207125,
             "topics": []
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
@@ -240,11 +240,11 @@
             "id": 701547123,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-12T22:21:16Z",
-            "open_issues": 282,
+            "last_commit": "2026-09-13T00:23:51Z",
+            "open_issues": 285,
             "owner": "open-webui",
             "repo": "open-webui",
-            "stars": 151786,
+            "stars": 151901,
             "topics": [
               "ai",
               "llm",
@@ -277,11 +277,11 @@
             "id": 881458615,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-12T07:39:39Z",
-            "open_issues": 406,
+            "last_commit": "2026-09-13T20:04:16Z",
+            "open_issues": 407,
             "owner": "browser-use",
             "repo": "browser-use",
-            "stars": 114373,
+            "stars": 114503,
             "topics": [
               "ai-agents",
               "ai-tools",
@@ -310,7 +310,7 @@
             "open_issues": 455,
             "owner": "daytonaio",
             "repo": "daytona",
-            "stars": 71722,
+            "stars": 71714,
             "topics": [
               "agentic-workflow",
               "ai",
@@ -336,11 +336,11 @@
             "id": 824874689,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T22:46:09Z",
-            "open_issues": 1295,
+            "last_commit": "2026-09-13T22:10:06Z",
+            "open_issues": 1298,
             "owner": "cline",
             "repo": "cline",
-            "stars": 67895,
+            "stars": 67949,
             "topics": []
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
@@ -358,10 +358,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-11T17:32:32Z",
-            "open_issues": 280,
+            "open_issues": 282,
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 68087,
+            "stars": 68137,
             "topics": [
               "ai",
               "context-engineering",
@@ -393,7 +393,7 @@
             "open_issues": 312,
             "owner": "Mintplex-Labs",
             "repo": "anything-llm",
-            "stars": 65964,
+            "stars": 65987,
             "topics": [
               "agent-computer",
               "agent-harness",
@@ -427,11 +427,11 @@
             "id": 644686905,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T13:49:50Z",
-            "open_issues": 962,
+            "last_commit": "2026-09-13T14:21:41Z",
+            "open_issues": 965,
             "owner": "continuedev",
             "repo": "continue",
-            "stars": 35883,
+            "stars": 35895,
             "topics": [
               "agent",
               "ai",
@@ -455,10 +455,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-06-30T20:38:02Z",
-            "open_issues": 336,
+            "open_issues": 337,
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33875,
+            "stars": 33880,
             "topics": [
               "ai",
               "codegen",
@@ -486,10 +486,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-09-12T22:27:49Z",
-            "open_issues": 1474,
+            "open_issues": 1487,
             "owner": "vercel",
             "repo": "ai",
-            "stars": 26708,
+            "stars": 26720,
             "topics": [
               "anthropic",
               "artificial-intelligence",
@@ -526,7 +526,7 @@
             "open_issues": 1033,
             "owner": "RooCodeInc",
             "repo": "Roo-Code",
-            "stars": 24303,
+            "stars": 24304,
             "topics": []
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
@@ -547,7 +547,7 @@
             "open_issues": 363,
             "owner": "dyad-sh",
             "repo": "dyad",
-            "stars": 21502,
+            "stars": 21523,
             "topics": [
               "ai-app-builder",
               "anthropic",
@@ -588,7 +588,7 @@
             "open_issues": 138,
             "owner": "stackblitz-labs",
             "repo": "bolt.diy",
-            "stars": 19868,
+            "stars": 19869,
             "topics": []
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
@@ -637,10 +637,10 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-11T04:08:28Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "stagewise-io",
             "repo": "stagewise",
-            "stars": 6811,
+            "stars": 6814,
             "topics": [
               "agent",
               "agent-orchestration",
@@ -772,7 +772,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T22:50:07.197Z",
+    "last_updated": "2026-09-13T22:52:29.519Z",
     "original_repository_info": {
       "archived": false,
       "description": "203 deep-dive tutorials for AI agents, LLM frameworks, coding tools, MCP, and open-source developer platforms",
