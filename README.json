@@ -219,11 +219,11 @@
             "id": 975734319,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T23:30:23Z",
-            "open_issues": 6214,
+            "last_commit": "2026-10-03T04:36:38Z",
+            "open_issues": 6191,
             "owner": "anomalyco",
             "repo": "opencode",
-            "stars": 211500,
+            "stars": 211523,
             "topics": []
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
@@ -244,7 +244,7 @@
             "open_issues": 276,
             "owner": "open-webui",
             "repo": "open-webui",
-            "stars": 153812,
+            "stars": 153833,
             "topics": [
               "ai",
               "llm",
@@ -278,10 +278,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-03T00:06:08Z",
-            "open_issues": 533,
+            "open_issues": 531,
             "owner": "browser-use",
             "repo": "browser-use",
-            "stars": 117009,
+            "stars": 117019,
             "topics": [
               "ai-agents",
               "ai-tools",
@@ -340,7 +340,7 @@
             "open_issues": 181,
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 70931,
+            "stars": 70943,
             "topics": [
               "ai",
               "context-engineering",
@@ -368,11 +368,11 @@
             "id": 824874689,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T00:08:19Z",
-            "open_issues": 1570,
+            "last_commit": "2026-10-03T03:04:24Z",
+            "open_issues": 1580,
             "owner": "cline",
             "repo": "cline",
-            "stars": 69734,
+            "stars": 69744,
             "topics": []
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
@@ -389,11 +389,11 @@
             "id": 649170660,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T20:24:29Z",
-            "open_issues": 316,
+            "last_commit": "2026-10-03T01:18:20Z",
+            "open_issues": 325,
             "owner": "Mintplex-Labs",
             "repo": "anything-llm",
-            "stars": 66670,
+            "stars": 66677,
             "topics": [
               "agent-computer",
               "agent-harness",
@@ -427,10 +427,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T10:41:02Z",
-            "open_issues": 834,
+            "open_issues": 824,
             "owner": "continuedev",
             "repo": "continue",
-            "stars": 36088,
+            "stars": 36090,
             "topics": [
               "agent",
               "ai",
@@ -484,11 +484,11 @@
             "id": 644461337,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T23:32:39Z",
-            "open_issues": 1415,
+            "last_commit": "2026-10-03T04:19:29Z",
+            "open_issues": 1377,
             "owner": "vercel",
             "repo": "ai",
-            "stars": 27088,
+            "stars": 27091,
             "topics": [
               "anthropic",
               "artificial-intelligence",
@@ -525,7 +525,7 @@
             "open_issues": 1033,
             "owner": "RooCodeInc",
             "repo": "Roo-Code",
-            "stars": 24289,
+            "stars": 24288,
             "topics": []
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
@@ -543,10 +543,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-10-01T22:56:45Z",
-            "open_issues": 308,
+            "open_issues": 309,
             "owner": "dyad-sh",
             "repo": "dyad",
-            "stars": 21646,
+            "stars": 21648,
             "topics": [
               "ai-app-builder",
               "anthropic",
@@ -587,7 +587,7 @@
             "open_issues": 143,
             "owner": "stackblitz-labs",
             "repo": "bolt.diy",
-            "stars": 19927,
+            "stars": 19926,
             "topics": []
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
@@ -678,100 +678,10 @@
         }
       ],
       "title": "📈 Trending Vibe-Coding Repos (Auto-updated 2026-09-28)"
-    },
-    {
-      "description": "Browse Tutorials · Pick a Learning Path · Star on GitHub",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "⭐ Star this repo",
-          "description": "Get updates on new tutorials",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "203 deep-dive tutorials for AI agents, LLM frameworks, coding tools, MCP, and open-source developer platforms",
-            "homepage": "https://github.com/johnxie/awesome-code-docs#-tutorial-catalog",
-            "id": 1050751344,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-09-28T17:40:11Z",
-            "open_issues": 2,
-            "owner": "johnxie",
-            "repo": "awesome-code-docs",
-            "stars": 61,
-            "topics": [
-              "ai-agents",
-              "ai-coding-assistant",
-              "ai-tutorial",
-              "awesome-list",
-              "awesome-lists",
-              "bolt-diy",
-              "cline",
-              "developer-tools",
-              "documentation",
-              "generative-ai",
-              "langchain",
-              "llm",
-              "machine-learning",
-              "mcp",
-              "open-source",
-              "openhands",
-              "rag",
-              "roo-code",
-              "tutorials",
-              "vibe-coding"
-            ]
-          },
-          "first_seen": "2026-08-28T05:06:36.437Z"
-        },
-        {
-          "node_type": "item",
-          "title": "💬 Issues",
-          "description": "Ask questions, report gaps, share suggestions",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "203 deep-dive tutorials for AI agents, LLM frameworks, coding tools, MCP, and open-source developer platforms",
-            "homepage": "https://github.com/johnxie/awesome-code-docs#-tutorial-catalog",
-            "id": 1050751344,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-09-28T17:40:11Z",
-            "open_issues": 2,
-            "owner": "johnxie",
-            "repo": "awesome-code-docs",
-            "stars": 61,
-            "topics": [
-              "ai-agents",
-              "ai-coding-assistant",
-              "ai-tutorial",
-              "awesome-list",
-              "awesome-lists",
-              "bolt-diy",
-              "cline",
-              "developer-tools",
-              "documentation",
-              "generative-ai",
-              "langchain",
-              "llm",
-              "machine-learning",
-              "mcp",
-              "open-source",
-              "openhands",
-              "rag",
-              "roo-code",
-              "tutorials",
-              "vibe-coding"
-            ]
-          },
-          "first_seen": "2026-08-28T05:06:36.437Z"
-        }
-      ],
-      "title": "🌍 Community"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:09:26.989Z",
+    "last_updated": "2026-10-03T04:42:17.965Z",
     "original_repository_info": {
       "archived": false,
       "description": "203 deep-dive tutorials for AI agents, LLM frameworks, coding tools, MCP, and open-source developer platforms",

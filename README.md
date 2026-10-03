@@ -9,11 +9,11 @@
 *Learn how complex systems actually work — not just what they do*
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/johnxie/awesome-code-docs?style=social)](https://github.com/johnxie/awesome-code-docs) ⭐ 61 | 🐛 2 | 🌐 Python | 📅 2026-09-28
+[![GitHub stars](https://img.shields.io/github/stars/johnxie/awesome-code-docs?style=social)](https://github.com/johnxie/awesome-code-docs)
 [![Tutorials](https://img.shields.io/badge/tutorials-203-brightgreen.svg)](#-tutorial-catalog)
 [![Sources](https://img.shields.io/badge/source%20repos-203%2F203%20verified-brightgreen.svg)](discoverability/tutorial-source-verification.md)
 [![Content Hours](https://img.shields.io/badge/content-2000%2B%20hours-orange.svg)](#-tutorial-catalog)
-[![Last Updated](https://img.shields.io/github/last-commit/johnxie/awesome-code-docs?label=updated)](https://github.com/johnxie/awesome-code-docs/commits/main) ⭐ 61 | 🐛 2 | 🌐 Python | 📅 2026-09-28
+[![Last Updated](https://img.shields.io/github/last-commit/johnxie/awesome-code-docs?label=updated)](https://github.com/johnxie/awesome-code-docs/commits/main)
 
 [**Browse Tutorials**](#-tutorial-catalog) · [**A-Z Directory**](discoverability/tutorial-directory.md) · [**Query Hub**](discoverability/query-hub.md) · [**Intent Map**](discoverability/search-intent-map.md) · [**Market Signals**](discoverability/trending-vibe-coding.md) · [**Learning Paths**](#-learning-paths) · [**Contributing**](#-contributing) · [**Community**](#-community)
 
@@ -141,19 +141,19 @@ Live GitHub market signals for high-impact open-source coding-agent and vibe-cod
 
 | Ecosystem Repo                                                                                                                     | Tutorial                                                 |   Stars | Last Push             | Why It Matters                                                      |
 | :--------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------- | ------: | :-------------------- | :------------------------------------------------------------------ |
-| [`anomalyco/opencode`](https://github.com/anomalyco/opencode) ⭐ 211,500 \| 🐛 6,214 \| 🌐 TypeScript \| 📅 2026-10-02              | [OpenCode Tutorial](tutorials/opencode-tutorial/)        | 210,588 | 2026-09-28 (0d ago)   | terminal-native coding agent with strong provider and tool controls |
-| [`open-webui/open-webui`](https://github.com/open-webui/open-webui) ⭐ 153,812 \| 🐛 276 \| 🌐 Python \| 📅 2026-10-02              | [Open WebUI Tutorial](tutorials/open-webui-tutorial/)    | 153,440 | 2026-09-28 (0d ago)   | self-hosted AI interface and model operations                       |
-| [`browser-use/browser-use`](https://github.com/browser-use/browser-use) ⭐ 117,009 \| 🐛 533 \| 🌐 Python \| 📅 2026-10-03          | [Browser Use Tutorial](tutorials/browser-use-tutorial/)  | 116,610 | 2026-09-26 (2d ago)   | browser-native AI automation and agent execution                    |
+| [`anomalyco/opencode`](https://github.com/anomalyco/opencode) ⭐ 211,523 \| 🐛 6,191 \| 🌐 TypeScript \| 📅 2026-10-03              | [OpenCode Tutorial](tutorials/opencode-tutorial/)        | 210,588 | 2026-09-28 (0d ago)   | terminal-native coding agent with strong provider and tool controls |
+| [`open-webui/open-webui`](https://github.com/open-webui/open-webui) ⭐ 153,833 \| 🐛 276 \| 🌐 Python \| 📅 2026-10-02              | [Open WebUI Tutorial](tutorials/open-webui-tutorial/)    | 153,440 | 2026-09-28 (0d ago)   | self-hosted AI interface and model operations                       |
+| [`browser-use/browser-use`](https://github.com/browser-use/browser-use) ⭐ 117,019 \| 🐛 531 \| 🌐 Python \| 📅 2026-10-03          | [Browser Use Tutorial](tutorials/browser-use-tutorial/)  | 116,610 | 2026-09-26 (2d ago)   | browser-native AI automation and agent execution                    |
 | [`daytonaio/daytona`](https://github.com/daytonaio/daytona) ⭐ 71,674 \| 🐛 458 \| 📅 2026-07-24                                    | [Daytona Tutorial](tutorials/daytona-tutorial/)          |  71,694 | 2026-07-24 (66d ago)  | sandbox infrastructure for secure AI code execution                 |
-| [`Fission-AI/OpenSpec`](https://github.com/Fission-AI/OpenSpec) ⭐ 70,931 \| 🐛 181 \| 🌐 TypeScript \| 📅 2026-10-02               | [OpenSpec Tutorial](tutorials/openspec-tutorial/)        |  70,576 | 2026-09-28 (0d ago)   | spec-driven workflow layer for predictable AI-assisted delivery     |
-| [`cline/cline`](https://github.com/cline/cline) ⭐ 69,734 \| 🐛 1,570 \| 🌐 TypeScript \| 📅 2026-10-03                             | [Cline Tutorial](tutorials/cline-tutorial/)              |  69,487 | 2026-09-28 (0d ago)   | agentic coding with terminal, browser, and MCP workflows            |
-| [`Mintplex-Labs/anything-llm`](https://github.com/Mintplex-Labs/anything-llm) ⭐ 66,670 \| 🐛 316 \| 🌐 JavaScript \| 📅 2026-10-02 | [AnythingLLM Tutorial](tutorials/anything-llm-tutorial/) |  66,551 | 2026-09-26 (2d ago)   | self-hosted RAG workspaces and agent workflows                      |
-| [`continuedev/continue`](https://github.com/continuedev/continue) ⭐ 36,088 \| 🐛 834 \| 🌐 TypeScript \| 📅 2026-10-02             | [Continue Tutorial](tutorials/continue-tutorial/)        |  36,054 | 2026-09-28 (0d ago)   | IDE-native AI coding assistant architecture                         |
+| [`Fission-AI/OpenSpec`](https://github.com/Fission-AI/OpenSpec) ⭐ 70,943 \| 🐛 181 \| 🌐 TypeScript \| 📅 2026-10-02               | [OpenSpec Tutorial](tutorials/openspec-tutorial/)        |  70,576 | 2026-09-28 (0d ago)   | spec-driven workflow layer for predictable AI-assisted delivery     |
+| [`cline/cline`](https://github.com/cline/cline) ⭐ 69,744 \| 🐛 1,580 \| 🌐 TypeScript \| 📅 2026-10-03                             | [Cline Tutorial](tutorials/cline-tutorial/)              |  69,487 | 2026-09-28 (0d ago)   | agentic coding with terminal, browser, and MCP workflows            |
+| [`Mintplex-Labs/anything-llm`](https://github.com/Mintplex-Labs/anything-llm) ⭐ 66,677 \| 🐛 325 \| 🌐 JavaScript \| 📅 2026-10-03 | [AnythingLLM Tutorial](tutorials/anything-llm-tutorial/) |  66,551 | 2026-09-26 (2d ago)   | self-hosted RAG workspaces and agent workflows                      |
+| [`continuedev/continue`](https://github.com/continuedev/continue) ⭐ 36,090 \| 🐛 824 \| 🌐 TypeScript \| 📅 2026-10-02             | [Continue Tutorial](tutorials/continue-tutorial/)        |  36,054 | 2026-09-28 (0d ago)   | IDE-native AI coding assistant architecture                         |
 | [`TabbyML/tabby`](https://github.com/TabbyML/tabby) ⭐ 33,888 \| 🐛 341 \| 🌐 Rust \| 📅 2026-06-30                                 | [Tabby Tutorial](tutorials/tabby-tutorial/)              |  33,891 | 2026-06-30 (90d ago)  | self-hosted coding assistant platform for teams                     |
-| [`vercel/ai`](https://github.com/vercel/ai) ⭐ 27,088 \| 🐛 1,415 \| 🌐 TypeScript \| 📅 2026-10-02                                 | [Vercel AI SDK Tutorial](tutorials/vercel-ai-tutorial/)  |  27,015 | 2026-09-28 (0d ago)   | production TypeScript AI app and agent SDK patterns                 |
+| [`vercel/ai`](https://github.com/vercel/ai) ⭐ 27,091 \| 🐛 1,377 \| 🌐 TypeScript \| 📅 2026-10-03                                 | [Vercel AI SDK Tutorial](tutorials/vercel-ai-tutorial/)  |  27,015 | 2026-09-28 (0d ago)   | production TypeScript AI app and agent SDK patterns                 |
 | [`RooCodeInc/Roo-Code`](https://github.com/RooCodeInc/Roo-Code) ⚠️ Archived                                                        | [Roo Code Tutorial](tutorials/roo-code-tutorial/)        |  24,290 | 2026-05-15 (136d ago) | multi-mode coding agents and approval workflows                     |
-| [`dyad-sh/dyad`](https://github.com/dyad-sh/dyad) ⭐ 21,646 \| 🐛 308 \| 🌐 TypeScript \| 📅 2026-10-01                             | [Dyad Tutorial](tutorials/dyad-tutorial/)                |  21,614 | 2026-09-28 (0d ago)   | local-first AI app generation workflows                             |
-| [`stackblitz-labs/bolt.diy`](https://github.com/stackblitz-labs/bolt.diy) ⭐ 19,927 \| 🐛 143 \| 🌐 TypeScript \| 📅 2026-02-07     | [bolt.diy Tutorial](tutorials/bolt-diy-tutorial/)        |  19,920 | 2026-02-07 (233d ago) | open-source Bolt-style product builder stack                        |
+| [`dyad-sh/dyad`](https://github.com/dyad-sh/dyad) ⭐ 21,648 \| 🐛 309 \| 🌐 TypeScript \| 📅 2026-10-01                             | [Dyad Tutorial](tutorials/dyad-tutorial/)                |  21,614 | 2026-09-28 (0d ago)   | local-first AI app generation workflows                             |
+| [`stackblitz-labs/bolt.diy`](https://github.com/stackblitz-labs/bolt.diy) ⭐ 19,926 \| 🐛 143 \| 🌐 TypeScript \| 📅 2026-02-07     | [bolt.diy Tutorial](tutorials/bolt-diy-tutorial/)        |  19,920 | 2026-02-07 (233d ago) | open-source Bolt-style product builder stack                        |
 | [`sweepai/sweep`](https://github.com/sweepai/sweep) ⭐ 7,709 \| 🐛 754 \| 🌐 Jupyter Notebook \| 📅 2025-09-18                      | [Sweep Tutorial](tutorials/sweep-tutorial/)              |   7,709 | 2025-09-18 (375d ago) | issue-to-PR coding agent workflows and GitHub automation            |
 | [`stagewise-io/stagewise`](https://github.com/stagewise-io/stagewise) ⭐ 6,824 \| 🐛 16 \| 🌐 TypeScript \| 📅 2026-09-30           | [Stagewise Tutorial](tutorials/stagewise-tutorial/)      |   6,821 | 2026-09-23 (5d ago)   | browser-context frontend coding agent workflows                     |
 | [`cloudflare/vibesdk`](https://github.com/cloudflare/vibesdk) ⭐ 5,396 \| 🐛 20 \| 🌐 TypeScript \| 📅 2026-09-22                   | [VibeSDK Tutorial](tutorials/vibesdk-tutorial/)          |   5,387 | 2026-09-22 (6d ago)   | Cloudflare-native prompt-to-app platform architecture               |
@@ -688,7 +688,7 @@ We welcome contributions! Here's how you can help:
 * **Progressive** — builds complexity gradually across chapters
 * **Production-focused** — covers deployment, monitoring, scaling
 
-**[Open an Issue](https://github.com/johnxie/awesome-code-docs/issues/new) ⭐ 61 | 🐛 2 | 🌐 Python | 📅 2026-09-28** to suggest a new tutorial or report a problem.
+**[Open an Issue](https://github.com/johnxie/awesome-code-docs/issues/new)** to suggest a new tutorial or report a problem.
 
 <div align="right"><a href="#top">⬆ Back to top</a></div>
 
@@ -696,11 +696,11 @@ We welcome contributions! Here's how you can help:
 
 ## 🌍 Community
 
-|                                                                                                                 |                                               |
-| :-------------------------------------------------------------------------------------------------------------- | :-------------------------------------------- |
-| ⭐ **[Star this repo](https://github.com/johnxie/awesome-code-docs) ⭐ 61 \| 🐛 2 \| 🌐 Python \| 📅 2026-09-28** | Get updates on new tutorials                  |
-| 💬 **[Issues](https://github.com/johnxie/awesome-code-docs/issues) ⭐ 61 \| 🐛 2 \| 🌐 Python \| 📅 2026-09-28** | Ask questions, report gaps, share suggestions |
-| 🐦 **[Twitter @johnxie](https://twitter.com/johnxie)**                                                          | Latest updates and highlights                 |
+|                                                                      |                                               |
+| :------------------------------------------------------------------- | :-------------------------------------------- |
+| ⭐ **[Star this repo](https://github.com/johnxie/awesome-code-docs)** | Get updates on new tutorials                  |
+| 💬 **[Issues](https://github.com/johnxie/awesome-code-docs/issues)** | Ask questions, report gaps, share suggestions |
+| 🐦 **[Twitter @johnxie](https://twitter.com/johnxie)**               | Latest updates and highlights                 |
 
 ***
 
@@ -716,7 +716,7 @@ We welcome contributions! Here's how you can help:
 └──────────────────────────────────────────────────┘
 ```
 
-**[Browse Tutorials](#-tutorial-catalog)** · **[Pick a Learning Path](#-learning-paths)** · **[Star on GitHub](https://github.com/johnxie/awesome-code-docs) ⭐ 61 | 🐛 2 | 🌐 Python | 📅 2026-09-28**
+**[Browse Tutorials](#-tutorial-catalog)** · **[Pick a Learning Path](#-learning-paths)** · **[Star on GitHub](https://github.com/johnxie/awesome-code-docs)**
 
 </div>
 
