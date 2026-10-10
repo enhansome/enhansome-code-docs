@@ -125,9 +125,9 @@ Live repository snapshot for high-intent Taskade/Genesis/AI/MCP searches.
 
 | Taskade Repo                                                                                                           | Stars | Last Push  | Tutorial Coverage                                                                       |
 | :--------------------------------------------------------------------------------------------------------------------- | ----: | :--------- | :-------------------------------------------------------------------------------------- |
-| [`taskade/mcp`](https://github.com/taskade/mcp) ⭐ 165 \| 🐛 14 \| 🌐 TypeScript \| 📅 2026-09-20                       |  116+ | 2026-02-13 | [Taskade MCP Tutorial](tutorials/taskade-mcp-tutorial/)                                 |
+| [`taskade/mcp`](https://github.com/taskade/mcp) ⭐ 165 \| 🐛 14 \| 🌐 TypeScript \| 📅 2026-10-09                       |  116+ | 2026-02-13 | [Taskade MCP Tutorial](tutorials/taskade-mcp-tutorial/)                                 |
 | [`taskade/docs`](https://github.com/taskade/docs) ⭐ 28 \| 🐛 1 \| 📅 2026-09-20                                        |   11+ | 2026-03-16 | [Taskade Docs Tutorial](tutorials/taskade-docs-tutorial/)                               |
-| [`taskade/awesome-vibe-coding`](https://github.com/taskade/awesome-vibe-coding) ⭐ 139 \| 🐛 15 \| 📅 2026-09-11        |    8+ | 2026-03-21 | [Taskade Awesome Vibe Coding Tutorial](tutorials/taskade-awesome-vibe-coding-tutorial/) |
+| [`taskade/awesome-vibe-coding`](https://github.com/taskade/awesome-vibe-coding) ⭐ 140 \| 🐛 16 \| 📅 2026-09-11        |    8+ | 2026-03-21 | [Taskade Awesome Vibe Coding Tutorial](tutorials/taskade-awesome-vibe-coding-tutorial/) |
 | [`taskade/taskade`](https://github.com/taskade/taskade) ⭐ 67 \| 🐛 9 \| 📅 2026-09-18                                  |    9+ | 2026-02-25 | [Taskade Tutorial](tutorials/taskade-tutorial/)                                         |
 | [`taskade/temporal-parser`](https://github.com/taskade/temporal-parser) ⭐ 26 \| 🐛 4 \| 🌐 TypeScript \| 📅 2026-09-11 |    2+ | 2026-02-12 | [Taskade Tutorial (Ecosystem radar)](tutorials/taskade-tutorial/)                       |
 
@@ -141,21 +141,21 @@ Live GitHub market signals for high-impact open-source coding-agent and vibe-cod
 
 | Ecosystem Repo                                                                                                                     | Tutorial                                                 |   Stars | Last Push             | Why It Matters                                                      |
 | :--------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------- | ------: | :-------------------- | :------------------------------------------------------------------ |
-| [`anomalyco/opencode`](https://github.com/anomalyco/opencode) ⭐ 212,200 \| 🐛 6,212 \| 🌐 TypeScript \| 📅 2026-10-09              | [OpenCode Tutorial](tutorials/opencode-tutorial/)        | 211,858 | 2026-10-05 (0d ago)   | terminal-native coding agent with strong provider and tool controls |
-| [`open-webui/open-webui`](https://github.com/open-webui/open-webui) ⭐ 154,057 \| 🐛 277 \| 🌐 Python \| 📅 2026-10-08              | [Open WebUI Tutorial](tutorials/open-webui-tutorial/)    | 154,006 | 2026-10-05 (0d ago)   | self-hosted AI interface and model operations                       |
-| [`browser-use/browser-use`](https://github.com/browser-use/browser-use) ⭐ 117,321 \| 🐛 534 \| 🌐 Python \| 📅 2026-10-07          | [Browser Use Tutorial](tutorials/browser-use-tutorial/)  | 117,196 | 2026-10-03 (2d ago)   | browser-native AI automation and agent execution                    |
+| [`anomalyco/opencode`](https://github.com/anomalyco/opencode) ⭐ 212,390 \| 🐛 6,164 \| 🌐 TypeScript \| 📅 2026-10-10              | [OpenCode Tutorial](tutorials/opencode-tutorial/)        | 211,858 | 2026-10-05 (0d ago)   | terminal-native coding agent with strong provider and tool controls |
+| [`open-webui/open-webui`](https://github.com/open-webui/open-webui) ⭐ 154,152 \| 🐛 260 \| 🌐 Python \| 📅 2026-10-09              | [Open WebUI Tutorial](tutorials/open-webui-tutorial/)    | 154,006 | 2026-10-05 (0d ago)   | self-hosted AI interface and model operations                       |
+| [`browser-use/browser-use`](https://github.com/browser-use/browser-use) ⭐ 117,430 \| 🐛 521 \| 🌐 Python \| 📅 2026-10-09          | [Browser Use Tutorial](tutorials/browser-use-tutorial/)  | 117,196 | 2026-10-03 (2d ago)   | browser-native AI automation and agent execution                    |
 | [`daytonaio/daytona`](https://github.com/daytonaio/daytona) ⚠️ Archived                                                            | [Daytona Tutorial](tutorials/daytona-tutorial/)          |  71,651 | 2026-07-24 (73d ago)  | sandbox infrastructure for secure AI code execution                 |
-| [`Fission-AI/OpenSpec`](https://github.com/Fission-AI/OpenSpec) ⭐ 71,378 \| 🐛 183 \| 🌐 TypeScript \| 📅 2026-10-08               | [OpenSpec Tutorial](tutorials/openspec-tutorial/)        |  71,084 | 2026-10-05 (0d ago)   | spec-driven workflow layer for predictable AI-assisted delivery     |
-| [`cline/cline`](https://github.com/cline/cline) ⭐ 70,036 \| 🐛 1,628 \| 🌐 TypeScript \| 📅 2026-10-09                             | [Cline Tutorial](tutorials/cline-tutorial/)              |  69,881 | 2026-10-05 (0d ago)   | agentic coding with terminal, browser, and MCP workflows            |
-| [`Mintplex-Labs/anything-llm`](https://github.com/Mintplex-Labs/anything-llm) ⭐ 66,835 \| 🐛 337 \| 🌐 JavaScript \| 📅 2026-10-08 | [AnythingLLM Tutorial](tutorials/anything-llm-tutorial/) |  66,722 | 2026-10-05 (0d ago)   | self-hosted RAG workspaces and agent workflows                      |
-| [`continuedev/continue`](https://github.com/continuedev/continue) ⭐ 36,162 \| 🐛 830 \| 🌐 TypeScript \| 📅 2026-10-08             | [Continue Tutorial](tutorials/continue-tutorial/)        |  36,119 | 2026-10-05 (0d ago)   | IDE-native AI coding assistant architecture                         |
-| [`TabbyML/tabby`](https://github.com/TabbyML/tabby) ⭐ 33,907 \| 🐛 335 \| 🌐 Rust \| 📅 2026-06-30                                 | [Tabby Tutorial](tutorials/tabby-tutorial/)              |  33,895 | 2026-06-30 (97d ago)  | self-hosted coding assistant platform for teams                     |
-| [`vercel/ai`](https://github.com/vercel/ai) ⭐ 27,186 \| 🐛 1,355 \| 🌐 TypeScript \| 📅 2026-10-09                                 | [Vercel AI SDK Tutorial](tutorials/vercel-ai-tutorial/)  |  27,126 | 2026-10-05 (0d ago)   | production TypeScript AI app and agent SDK patterns                 |
+| [`Fission-AI/OpenSpec`](https://github.com/Fission-AI/OpenSpec) ⭐ 71,484 \| 🐛 185 \| 🌐 TypeScript \| 📅 2026-10-09               | [OpenSpec Tutorial](tutorials/openspec-tutorial/)        |  71,084 | 2026-10-05 (0d ago)   | spec-driven workflow layer for predictable AI-assisted delivery     |
+| [`cline/cline`](https://github.com/cline/cline) ⭐ 70,080 \| 🐛 1,647 \| 🌐 TypeScript \| 📅 2026-10-10                             | [Cline Tutorial](tutorials/cline-tutorial/)              |  69,881 | 2026-10-05 (0d ago)   | agentic coding with terminal, browser, and MCP workflows            |
+| [`Mintplex-Labs/anything-llm`](https://github.com/Mintplex-Labs/anything-llm) ⭐ 66,867 \| 🐛 328 \| 🌐 JavaScript \| 📅 2026-10-09 | [AnythingLLM Tutorial](tutorials/anything-llm-tutorial/) |  66,722 | 2026-10-05 (0d ago)   | self-hosted RAG workspaces and agent workflows                      |
+| [`continuedev/continue`](https://github.com/continuedev/continue) ⭐ 36,160 \| 🐛 834 \| 🌐 TypeScript \| 📅 2026-10-09             | [Continue Tutorial](tutorials/continue-tutorial/)        |  36,119 | 2026-10-05 (0d ago)   | IDE-native AI coding assistant architecture                         |
+| [`TabbyML/tabby`](https://github.com/TabbyML/tabby) ⭐ 33,904 \| 🐛 335 \| 🌐 Rust \| 📅 2026-06-30                                 | [Tabby Tutorial](tutorials/tabby-tutorial/)              |  33,895 | 2026-06-30 (97d ago)  | self-hosted coding assistant platform for teams                     |
+| [`vercel/ai`](https://github.com/vercel/ai) ⭐ 27,213 \| 🐛 1,365 \| 🌐 TypeScript \| 📅 2026-10-10                                 | [Vercel AI SDK Tutorial](tutorials/vercel-ai-tutorial/)  |  27,126 | 2026-10-05 (0d ago)   | production TypeScript AI app and agent SDK patterns                 |
 | [`RooCodeInc/Roo-Code`](https://github.com/RooCodeInc/Roo-Code) ⚠️ Archived                                                        | [Roo Code Tutorial](tutorials/roo-code-tutorial/)        |  24,288 | 2026-05-15 (143d ago) | multi-mode coding agents and approval workflows                     |
-| [`dyad-sh/dyad`](https://github.com/dyad-sh/dyad) ⭐ 21,779 \| 🐛 316 \| 🌐 TypeScript \| 📅 2026-10-08                             | [Dyad Tutorial](tutorials/dyad-tutorial/)                |  21,658 | 2026-10-05 (0d ago)   | local-first AI app generation workflows                             |
-| [`stackblitz-labs/bolt.diy`](https://github.com/stackblitz-labs/bolt.diy) ⭐ 19,938 \| 🐛 56 \| 🌐 TypeScript \| 📅 2026-10-08      | [bolt.diy Tutorial](tutorials/bolt-diy-tutorial/)        |  19,926 | 2026-10-05 (0d ago)   | open-source Bolt-style product builder stack                        |
-| [`sweepai/sweep`](https://github.com/sweepai/sweep) ⭐ 7,709 \| 🐛 755 \| 🌐 Jupyter Notebook \| 📅 2025-09-18                      | [Sweep Tutorial](tutorials/sweep-tutorial/)              |   7,708 | 2025-09-18 (382d ago) | issue-to-PR coding agent workflows and GitHub automation            |
-| [`stagewise-io/stagewise`](https://github.com/stagewise-io/stagewise) ⭐ 6,827 \| 🐛 22 \| 🌐 TypeScript \| 📅 2026-10-05           | [Stagewise Tutorial](tutorials/stagewise-tutorial/)      |   6,825 | 2026-10-05 (0d ago)   | browser-context frontend coding agent workflows                     |
+| [`dyad-sh/dyad`](https://github.com/dyad-sh/dyad) ⭐ 21,799 \| 🐛 313 \| 🌐 TypeScript \| 📅 2026-10-09                             | [Dyad Tutorial](tutorials/dyad-tutorial/)                |  21,658 | 2026-10-05 (0d ago)   | local-first AI app generation workflows                             |
+| [`stackblitz-labs/bolt.diy`](https://github.com/stackblitz-labs/bolt.diy) ⭐ 19,940 \| 🐛 55 \| 🌐 TypeScript \| 📅 2026-10-09      | [bolt.diy Tutorial](tutorials/bolt-diy-tutorial/)        |  19,926 | 2026-10-05 (0d ago)   | open-source Bolt-style product builder stack                        |
+| [`sweepai/sweep`](https://github.com/sweepai/sweep) ⭐ 7,708 \| 🐛 755 \| 🌐 Jupyter Notebook \| 📅 2025-09-18                      | [Sweep Tutorial](tutorials/sweep-tutorial/)              |   7,708 | 2025-09-18 (382d ago) | issue-to-PR coding agent workflows and GitHub automation            |
+| [`stagewise-io/stagewise`](https://github.com/stagewise-io/stagewise) ⭐ 6,828 \| 🐛 25 \| 🌐 TypeScript \| 📅 2026-10-05           | [Stagewise Tutorial](tutorials/stagewise-tutorial/)      |   6,825 | 2026-10-05 (0d ago)   | browser-context frontend coding agent workflows                     |
 | [`cloudflare/vibesdk`](https://github.com/cloudflare/vibesdk) ⭐ 5,401 \| 🐛 20 \| 🌐 TypeScript \| 📅 2026-09-22                   | [VibeSDK Tutorial](tutorials/vibesdk-tutorial/)          |   5,395 | 2026-09-22 (13d ago)  | Cloudflare-native prompt-to-app platform architecture               |
 
 Data source: GitHub REST API (`stargazers_count`, `pushed_at`) via `scripts/refresh_market_signals.py`.
@@ -650,7 +650,7 @@ Each tutorial is generated using AI-powered codebase analysis, then reviewed and
                    patterns           diagrams             architecture
 ```
 
-Inspired by [Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge) ⭐ 12,692 | 🐛 77 | 🌐 Python | 📅 2026-05-31 by The Pocket.
+Inspired by [Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge) ⭐ 12,698 | 🐛 77 | 🌐 Python | 📅 2026-05-31 by The Pocket.
 
 ### Built & Maintained With
 
@@ -722,4 +722,4 @@ We welcome contributions! Here's how you can help:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
