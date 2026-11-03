@@ -90,7 +90,7 @@
             "language": null,
             "license": "CC-BY-4.0",
             "last_commit": "2026-10-31T05:48:33Z",
-            "open_issues": 14,
+            "open_issues": 18,
             "owner": "taskade",
             "repo": "awesome-vibe-coding",
             "stars": 145,
@@ -195,7 +195,7 @@
         {
           "node_type": "item",
           "title": "opencode",
-          "description": "OpenCode Tutorial 221,829 2026-10-26 (0d ago) terminal-native coding agent with strong provider and tool controls",
+          "description": "OpenCode Tutorial 224,074 2026-11-02 (0d ago) terminal-native coding agent with strong provider and tool controls",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -204,11 +204,11 @@
             "id": 975734319,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-01T23:29:04Z",
-            "open_issues": 3748,
+            "last_commit": "2026-11-03T02:40:12Z",
+            "open_issues": 3744,
             "owner": "anomalyco",
             "repo": "opencode",
-            "stars": 223849,
+            "stars": 224135,
             "topics": []
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
@@ -216,7 +216,7 @@
         {
           "node_type": "item",
           "title": "open-webui",
-          "description": "Open WebUI Tutorial 156,818 2026-10-26 (0d ago) self-hosted AI interface and model operations",
+          "description": "Open WebUI Tutorial 157,573 2026-11-02 (0d ago) self-hosted AI interface and model operations",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -225,11 +225,11 @@
             "id": 701547123,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-02T00:09:47Z",
-            "open_issues": 165,
+            "last_commit": "2026-11-03T01:58:23Z",
+            "open_issues": 169,
             "owner": "open-webui",
             "repo": "open-webui",
-            "stars": 157482,
+            "stars": 157591,
             "topics": [
               "ai",
               "llm",
@@ -253,7 +253,7 @@
         {
           "node_type": "item",
           "title": "browser-use",
-          "description": "Browser Use Tutorial 119,192 2026-10-24 (2d ago) browser-native AI automation and agent execution",
+          "description": "Browser Use Tutorial 119,856 2026-11-02 (0d ago) browser-native AI automation and agent execution",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -262,11 +262,11 @@
             "id": 881458615,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-31T01:18:25Z",
+            "last_commit": "2026-11-02T01:31:56Z",
             "open_issues": 619,
             "owner": "browser-use",
             "repo": "browser-use",
-            "stars": 119765,
+            "stars": 119880,
             "topics": [
               "ai-agents",
               "ai-tools",
@@ -292,7 +292,7 @@
         {
           "node_type": "item",
           "title": "OpenSpec",
-          "description": "OpenSpec Tutorial 73,040 2026-10-26 (0d ago) spec-driven workflow layer for predictable AI-assisted delivery",
+          "description": "OpenSpec Tutorial 73,707 2026-11-02 (0d ago) spec-driven workflow layer for predictable AI-assisted delivery",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -301,11 +301,11 @@
             "id": 1032459340,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T23:40:26Z",
-            "open_issues": 190,
+            "last_commit": "2026-11-03T00:56:00Z",
+            "open_issues": 193,
             "owner": "Fission-AI",
             "repo": "OpenSpec",
-            "stars": 73614,
+            "stars": 73732,
             "topics": [
               "ai",
               "context-engineering",
@@ -324,7 +324,7 @@
         {
           "node_type": "item",
           "title": "daytona",
-          "description": "Daytona Tutorial 71,464 2026-07-24 (94d ago) sandbox infrastructure for secure AI code execution",
+          "description": "Daytona Tutorial 71,392 2026-07-24 (101d ago) sandbox infrastructure for secure AI code execution",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -337,7 +337,7 @@
             "open_issues": 457,
             "owner": "daytonaio",
             "repo": "daytona",
-            "stars": 71406,
+            "stars": 71392,
             "topics": [
               "agentic-workflow",
               "ai",
@@ -354,7 +354,7 @@
         {
           "node_type": "item",
           "title": "cline",
-          "description": "Cline Tutorial 70,882 2026-10-26 (0d ago) agentic coding with terminal, browser, and MCP workflows",
+          "description": "Cline Tutorial 71,220 2026-11-02 (0d ago) agentic coding with terminal, browser, and MCP workflows",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -363,11 +363,11 @@
             "id": 824874689,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T15:06:32Z",
-            "open_issues": 1743,
+            "last_commit": "2026-11-03T02:19:00Z",
+            "open_issues": 1749,
             "owner": "cline",
             "repo": "cline",
-            "stars": 71184,
+            "stars": 71235,
             "topics": []
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
@@ -375,7 +375,7 @@
         {
           "node_type": "item",
           "title": "anything-llm",
-          "description": "AnythingLLM Tutorial 67,584 2026-10-25 (1d ago) self-hosted RAG workspaces and agent workflows",
+          "description": "AnythingLLM Tutorial 67,861 2026-10-30 (3d ago) self-hosted RAG workspaces and agent workflows",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -384,11 +384,11 @@
             "id": 649170660,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T23:50:45Z",
-            "open_issues": 363,
+            "last_commit": "2026-11-03T01:33:17Z",
+            "open_issues": 333,
             "owner": "Mintplex-Labs",
             "repo": "anything-llm",
-            "stars": 67830,
+            "stars": 67871,
             "topics": [
               "agent-computer",
               "agent-harness",
@@ -412,7 +412,7 @@
         {
           "node_type": "item",
           "title": "continue",
-          "description": "Continue Tutorial 36,331 2026-10-26 (0d ago) IDE-native AI coding assistant architecture",
+          "description": "Continue Tutorial 36,399 2026-11-02 (0d ago) IDE-native AI coding assistant architecture",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -421,11 +421,11 @@
             "id": 644686905,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-01T07:23:48Z",
-            "open_issues": 859,
+            "last_commit": "2026-11-02T12:11:19Z",
+            "open_issues": 869,
             "owner": "continuedev",
             "repo": "continue",
-            "stars": 36396,
+            "stars": 36398,
             "topics": [
               "agent",
               "ai",
@@ -439,7 +439,7 @@
         {
           "node_type": "item",
           "title": "tabby",
-          "description": "Tabby Tutorial 33,924 2026-06-30 (118d ago) self-hosted coding assistant platform for teams",
+          "description": "Tabby Tutorial 33,921 2026-06-30 (125d ago) self-hosted coding assistant platform for teams",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -452,7 +452,7 @@
             "open_issues": 345,
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33921,
+            "stars": 33918,
             "topics": [
               "ai",
               "codegen",
@@ -470,7 +470,7 @@
         {
           "node_type": "item",
           "title": "ai",
-          "description": "Vercel AI SDK Tutorial 27,523 2026-10-26 (0d ago) production TypeScript AI app and agent SDK patterns",
+          "description": "Vercel AI SDK Tutorial 27,698 2026-11-02 (0d ago) production TypeScript AI app and agent SDK patterns",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -479,11 +479,11 @@
             "id": 644461337,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-01T21:17:14Z",
-            "open_issues": 1541,
+            "last_commit": "2026-11-03T01:49:57Z",
+            "open_issues": 1544,
             "owner": "vercel",
             "repo": "ai",
-            "stars": 27680,
+            "stars": 27696,
             "topics": [
               "anthropic",
               "artificial-intelligence",
@@ -507,7 +507,7 @@
         {
           "node_type": "item",
           "title": "Roo-Code",
-          "description": "Roo Code Tutorial 24,262 2026-05-15 (164d ago) multi-mode coding agents and approval workflows",
+          "description": "Roo Code Tutorial 24,256 2026-05-15 (171d ago) multi-mode coding agents and approval workflows",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -528,7 +528,7 @@
         {
           "node_type": "item",
           "title": "dyad",
-          "description": "Dyad Tutorial 22,072 2026-10-26 (0d ago) local-first AI app generation workflows",
+          "description": "Dyad Tutorial 22,166 2026-11-02 (0d ago) local-first AI app generation workflows",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -537,11 +537,11 @@
             "id": 964395174,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-01T22:03:51Z",
+            "last_commit": "2026-11-03T01:32:11Z",
             "open_issues": 352,
             "owner": "dyad-sh",
             "repo": "dyad",
-            "stars": 22151,
+            "stars": 22173,
             "topics": [
               "ai-app-builder",
               "anthropic",
@@ -569,7 +569,7 @@
         {
           "node_type": "item",
           "title": "bolt.diy",
-          "description": "bolt.diy Tutorial 19,992 2026-10-14 (12d ago) open-source Bolt-style product builder stack",
+          "description": "bolt.diy Tutorial 20,028 2026-10-14 (19d ago) open-source Bolt-style product builder stack",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -582,7 +582,7 @@
             "open_issues": 23,
             "owner": "stackblitz-labs",
             "repo": "bolt.diy",
-            "stars": 20025,
+            "stars": 20027,
             "topics": []
           },
           "first_seen": "2026-08-28T05:06:36.437Z"
@@ -590,7 +590,7 @@
         {
           "node_type": "item",
           "title": "sweep",
-          "description": "Sweep Tutorial 7,710 2025-09-18 (403d ago) issue-to-PR coding agent workflows and GitHub automation",
+          "description": "Sweep Tutorial 7,710 2025-09-18 (410d ago) issue-to-PR coding agent workflows and GitHub automation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -603,7 +603,7 @@
             "open_issues": 757,
             "owner": "sweepai",
             "repo": "sweep",
-            "stars": 7709,
+            "stars": 7710,
             "topics": [
               "ai",
               "ai-developer",
@@ -621,7 +621,7 @@
         {
           "node_type": "item",
           "title": "stagewise",
-          "description": "Stagewise Tutorial 6,831 2026-10-25 (1d ago) browser-context frontend coding agent workflows",
+          "description": "Stagewise Tutorial 6,832 2026-11-02 (0d ago) browser-context frontend coding agent workflows",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -630,11 +630,11 @@
             "id": 973180254,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-01T16:53:10Z",
-            "open_issues": 35,
+            "last_commit": "2026-11-02T08:27:44Z",
+            "open_issues": 37,
             "owner": "stagewise-io",
             "repo": "stagewise",
-            "stars": 6833,
+            "stars": 6832,
             "topics": [
               "agent",
               "agent-orchestration",
@@ -646,7 +646,7 @@
         {
           "node_type": "item",
           "title": "vibesdk",
-          "description": "VibeSDK Tutorial 5,429 2026-10-22 (4d ago) Cloudflare-native prompt-to-app platform architecture",
+          "description": "VibeSDK Tutorial 5,449 2026-10-22 (11d ago) Cloudflare-native prompt-to-app platform architecture",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -659,7 +659,7 @@
             "open_issues": 22,
             "owner": "cloudflare",
             "repo": "vibesdk",
-            "stars": 5447,
+            "stars": 5450,
             "topics": [
               "ai",
               "cloudflare-workers",
@@ -672,11 +672,11 @@
           "first_seen": "2026-08-28T05:06:36.437Z"
         }
       ],
-      "title": "📈 Trending Vibe-Coding Repos (Auto-updated 2026-10-26)"
+      "title": "📈 Trending Vibe-Coding Repos (Auto-updated 2026-11-02)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T00:14:42.854Z",
+    "last_updated": "2026-11-03T02:45:55.468Z",
     "original_repository_info": {
       "archived": false,
       "description": "203 deep-dive tutorials for AI agents, LLM frameworks, coding tools, MCP, and open-source developer platforms",
@@ -684,7 +684,7 @@
       "id": 1050751344,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-10-26T16:08:37Z",
+      "last_commit": "2026-11-02T19:30:19Z",
       "open_issues": 1,
       "owner": "johnxie",
       "repo": "awesome-code-docs",
@@ -712,7 +712,7 @@
         "vibe-coding"
       ]
     },
-    "original_repository_sha": "80fbddd066f0482b688063677d135eb28781e9d3",
+    "original_repository_sha": "c80ff3fd97c2692b902b0581696b960d60f61831",
     "enhanced_repository": "enhansome/enhansome-code-docs",
     "enhanced_repository_description": null,
     "title": "Awesome Code Docs with stars"
